@@ -1,0 +1,1626 @@
+{
+	"exercises": [
+		{
+			"Id": 1,
+			"Title": "پشت پا خوابیده دستگاه",
+			"TargetMuscle": "پا",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "همسترینگ",
+			"TargetMuscleDescription": "همسترینگ (پشت ران)"
+		},
+		{
+			"Id": 2,
+			"Title": "پشت پا تک تک ایستاده دستگاه",
+			"TargetMuscle": "پا",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "همسترینگ",
+			"TargetMuscleDescription": "همسترینگ (پشت ران)"
+		},
+		{
+			"Id": 3,
+			"Title": "ددلیفت دمبل",
+			"TargetMuscle": "پا,کول",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "همسترینگ,سرینی,فیله کمر,ذوزنقه",
+			"TargetMuscleDescription": "همسترینگ و کمر"
+		},
+		{
+			"Id": 4,
+			"Title": "ددلیفت هالتر",
+			"TargetMuscle": "پا,کول",
+			"DifficultyLevel": "حرفه‌ای",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "همسترینگ,سرینی,فیله کمر,ذوزنقه",
+			"TargetMuscleDescription": "همسترینگ و کمر"
+		},
+		{
+			"Id": 5,
+			"Title": "پشت پا دمبل خوابیده",
+			"TargetMuscle": "پا",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "همسترینگ",
+			"TargetMuscleDescription": "همسترینگ (پشت ران)"
+		},
+		{
+			"Id": 6,
+			"Title": "جلو پا دستگاه",
+			"TargetMuscle": "پا",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "چهارسر ران",
+			"TargetMuscleDescription": "چهارسر ران (جلوی ران)"
+		},
+		{
+			"Id": 7,
+			"Title": "پرس پا خوابیده ماشین",
+			"TargetMuscle": "پا",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "چهارسر ران,همسترینگ,سرینی",
+			"TargetMuscleDescription": "چهارسر ران (جلوی ران)"
+		},
+		{
+			"Id": 8,
+			"Title": "هاگ پا ماشین",
+			"TargetMuscle": "پا",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "چهارسر ران,سرینی,همسترینگ",
+			"TargetMuscleDescription": "چهارسر ران و همسترینگ"
+		},
+		{
+			"Id": 9,
+			"Title": "اسکات پا هالتر آزاد",
+			"TargetMuscle": "پا",
+			"DifficultyLevel": "پیشرفته",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "چهارسر ران,سرینی,همسترینگ",
+			"TargetMuscleDescription": "چهارسر ران و همسترینگ"
+		},
+		{
+			"Id": 10,
+			"Title": "اسکات پا دمبل",
+			"TargetMuscle": "پا",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "چهارسر ران,سرینی,همسترینگ",
+			"TargetMuscleDescription": "چهارسر ران و همسترینگ"
+		},
+		{
+			"Id": 11,
+			"Title": "لانگز پا دمبل (تک تک)",
+			"TargetMuscle": "پا",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "چهارسر ران,سرینی,همسترینگ",
+			"TargetMuscleDescription": "چهارسر ران و همسترینگ"
+		},
+		{
+			"Id": 12,
+			"Title": "داخل پا دمبل",
+			"TargetMuscle": "پا",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "همسترینگ,سرینی,عضلات داخل ران",
+			"TargetMuscleDescription": "عضلات ادداکتور (داخل ران)"
+		},
+		{
+			"Id": 13,
+			"Title": "ساق پا ایستاده دستگاه",
+			"TargetMuscle": "پا",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "دوقلو,نعلی",
+			"TargetMuscleDescription": "ساق پا (گاستروس)"
+		},
+		{
+			"Id": 14,
+			"Title": "داخل پا دستگاه",
+			"TargetMuscle": "پا",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "عضلات داخل ران",
+			"TargetMuscleDescription": "ادداکتورها (داخل ران)"
+		},
+		{
+			"Id": 15,
+			"Title": "داخل پا اسمیت",
+			"TargetMuscle": "پا",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دستگاه اسمیت",
+			"PrimaryMuscles": "همسترینگ,سرینی,عضلات داخل ران",
+			"TargetMuscleDescription": "ادداکتورها (داخل ران)"
+		},
+		{
+			"Id": 16,
+			"Title": "سی سی اسکات",
+			"TargetMuscle": "پا",
+			"DifficultyLevel": "پیشرفته",
+			"Equipment": "وزن بدن",
+			"PrimaryMuscles": "چهارسر ران",
+			"TargetMuscleDescription": "چهارسر ران و همسترینگ"
+		},
+		{
+			"Id": 17,
+			"Title": "نشر از جانب دمبل ایستاده",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "دلتوئید جانبی",
+			"TargetMuscleDescription": "دلتوئید جانبی (شانه)"
+		},
+		{
+			"Id": 18,
+			"Title": "نشر از جلو دمبل تک تک ایستاده",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "دلتوئید قدامی",
+			"TargetMuscleDescription": "دلتوئید جلویی (شانه)"
+		},
+		{
+			"Id": 19,
+			"Title": "نشر از جلو دمبل چکشی تک تک ایستاده",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "دلتوئید قدامی",
+			"TargetMuscleDescription": "دلتوئید (شانه)"
+		},
+		{
+			"Id": 20,
+			"Title": "نشر از جلو دمبل جفت ایستاده",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "دلتوئید قدامی",
+			"TargetMuscleDescription": "دلتوئید (شانه)"
+		},
+		{
+			"Id": 21,
+			"Title": "نشر از جلو دمبل چکشی جفت ایستاده",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "دلتوئید قدامی",
+			"TargetMuscleDescription": "دلتوئید (شانه)"
+		},
+		{
+			"Id": 22,
+			"Title": "سرشانه هالتر ایستاده از جلو",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "دلتوئید قدامی,دلتوئید جانبی",
+			"TargetMuscleDescription": "دلتوئید جلویی (شانه)"
+		},
+		{
+			"Id": 23,
+			"Title": "سرشانه هالتر ایستاده از پشت",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "پیشرفته",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "دلتوئید قدامی,دلتوئید جانبی",
+			"TargetMuscleDescription": "دلتوئید خلفی (شانه)"
+		},
+		{
+			"Id": 24,
+			"Title": "پرس سرشانه دستگاه نشسته",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "دلتوئید قدامی,دلتوئید جانبی",
+			"TargetMuscleDescription": "شانه (دلتوئیدهای مختلف)"
+		},
+		{
+			"Id": 25,
+			"Title": "نشر از پشت دستگاه (فلای معکوس)",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "دلتوئید خلفی",
+			"TargetMuscleDescription": "دلتوئید خلفی (شانه)"
+		},
+		{
+			"Id": 26,
+			"Title": "نشر از جانب سیم کش تک دست",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "دلتوئید جانبی",
+			"TargetMuscleDescription": "دلتوئید جانبی (شانه)"
+		},
+		{
+			"Id": 27,
+			"Title": "نشر از جلو سیم کش",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "دلتوئید قدامی",
+			"TargetMuscleDescription": "دلتوئید جلویی (شانه)"
+		},
+		{
+			"Id": 28,
+			"Title": "نشر از پشت دمبل (میز شیب دار)",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "دلتوئید خلفی",
+			"TargetMuscleDescription": "دلتوئید خلفی (شانه)"
+		},
+		{
+			"Id": 29,
+			"Title": "نشر از جانب دمبل نشسته",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "دلتوئید جانبی",
+			"TargetMuscleDescription": "دلتوئید جانبی (شانه)"
+		},
+		{
+			"Id": 30,
+			"Title": "نشر از جلو دمبل تک تک چشکی نشسته",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "دلتوئید قدامی",
+			"TargetMuscleDescription": "دلتوئید جلویی (شانه)"
+		},
+		{
+			"Id": 31,
+			"Title": "نشر از جلو دمبل تک تک دست موازی نشسته",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "دلتوئید قدامی",
+			"TargetMuscleDescription": "دلتوئید جلویی (شانه)"
+		},
+		{
+			"Id": 32,
+			"Title": "نشر از جلو هالتر ایستاده",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "دلتوئید قدامی",
+			"TargetMuscleDescription": "دلتوئید جلویی (شانه)"
+		},
+		{
+			"Id": 33,
+			"Title": "نشر از جاو هالتر ایستاده دست برعکس",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "دلتوئید قدامی",
+			"TargetMuscleDescription": "دلتوئید (ترکیبی شانه)"
+		},
+		{
+			"Id": 34,
+			"Title": "سرشانه اسمیت از پشت نشسته",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دستگاه اسمیت",
+			"PrimaryMuscles": "دلتوئید قدامی,دلتوئید جانبی",
+			"TargetMuscleDescription": "دلتوئید خلفی (شانه)"
+		},
+		{
+			"Id": 35,
+			"Title": "سرشانه اسمیت از جلو نشسته",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دستگاه اسمیت",
+			"PrimaryMuscles": "دلتوئید قدامی,دلتوئید جانبی",
+			"TargetMuscleDescription": "دلتوئید جلویی (شانه)"
+		},
+		{
+			"Id": 36,
+			"Title": "پرس سرشانه دمبل نشسته",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "دلتوئید قدامی,دلتوئید جانبی",
+			"TargetMuscleDescription": "کلیه دلتوئیدهای شانه"
+		},
+		{
+			"Id": 37,
+			"Title": "پرس سرشانه دمبل دست موازی نشسته",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "دلتوئید قدامی,دلتوئید جانبی",
+			"TargetMuscleDescription": "دلتوئید (شانه)"
+		},
+		{
+			"Id": 38,
+			"Title": "پرس سرشانه دمبل آرنولدی",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "پیشرفته",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "دلتوئید قدامی,دلتوئید جانبی",
+			"TargetMuscleDescription": "دلتوئید (کل شانه)"
+		},
+		{
+			"Id": 39,
+			"Title": "نشر از جلو هالتر نشسته",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "دلتوئید قدامی",
+			"TargetMuscleDescription": "دلتوئید جلویی (شانه)"
+		},
+		{
+			"Id": 40,
+			"Title": "نشر از پشت دمبل کمر خم",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "دلتوئید خلفی",
+			"TargetMuscleDescription": "دلتوئید خلفی (شانه)"
+		},
+		{
+			"Id": 41,
+			"Title": "نشر از جلو هالتر (میز شیب دار)",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "دلتوئید قدامی",
+			"TargetMuscleDescription": "دلتوئید جلویی (شانه)"
+		},
+		{
+			"Id": 42,
+			"Title": "نشر از جانب سیم کش ضربدری",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "دلتوئید جانبی",
+			"TargetMuscleDescription": "دلتوئید جانبی (شانه)"
+		},
+		{
+			"Id": 43,
+			"Title": "شراک هالتر از جلو",
+			"TargetMuscle": "کول",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "ذوزنقه",
+			"TargetMuscleDescription": "شانه (بخش جلویی)"
+		},
+		{
+			"Id": 44,
+			"Title": "شراک هالتر از پشت",
+			"TargetMuscle": "کول",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "ذوزنقه",
+			"TargetMuscleDescription": "شانه (بخش خلفی)"
+		},
+		{
+			"Id": 45,
+			"Title": "کول هالتر",
+			"TargetMuscle": "کول,سرشانه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "ذوزنقه,دلتوئید جانبی,دلتوئید قدامی",
+			"TargetMuscleDescription": "عضلات گردن و بالای پشت"
+		},
+		{
+			"Id": 46,
+			"Title": "کول دمبل نشسته",
+			"TargetMuscle": "کول,سرشانه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "ذوزنقه,دلتوئید جانبی,دلتوئید قدامی",
+			"TargetMuscleDescription": "گردن و بالای پشت"
+		},
+		{
+			"Id": 47,
+			"Title": "زیربغل دمبل کمر خم تک تک",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "پشتی بزرگ,ذوزنقه,دلتوئید خلفی",
+			"TargetMuscleDescription": "عضلات زیربغل (لاتس)"
+		},
+		{
+			"Id": 48,
+			"Title": "پلاور دمبل",
+			"TargetMuscle": "سینه,زیربغل",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "پشتی بزرگ,سینه (بخش بالایی)",
+			"TargetMuscleDescription": "عضلات پشتی و سینه"
+		},
+		{
+			"Id": 49,
+			"Title": "زیربغل هالتر کمر خم",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "پشتی بزرگ,ذوزنقه,دلتوئید خلفی",
+			"TargetMuscleDescription": "عضلات زیربغل (لاتس)"
+		},
+		{
+			"Id": 50,
+			"Title": "زیر بغل هالتر کمر خم دست برعکس",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "پشتی بزرگ,ذوزنقه,دلتوئید خلفی",
+			"TargetMuscleDescription": "عضلات زیربغل (لاتس)"
+		},
+		{
+			"Id": 51,
+			"Title": "زیربغل سیم کش دست باز از جلو",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "پشتی بزرگ",
+			"TargetMuscleDescription": "عضلات زیربغل (لاتس)"
+		},
+		{
+			"Id": 52,
+			"Title": "زیربغل سیم کش دست برعکس",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "پشتی بزرگ",
+			"TargetMuscleDescription": "عضلات زیربغل (لاتس)"
+		},
+		{
+			"Id": 53,
+			"Title": "زیربغل سیم کش دست باز از پشت",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "پشتی بزرگ",
+			"TargetMuscleDescription": "عضلات زیربغل (لاتس)"
+		},
+		{
+			"Id": 54,
+			"Title": "زیربغل سیم کش میله دوبل",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "پشتی بزرگ",
+			"TargetMuscleDescription": "عضلات زیربغل (لاتس)"
+		},
+		{
+			"Id": 55,
+			"Title": "زیربغل پلاور سیم کش",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "پشتی بزرگ",
+			"TargetMuscleDescription": "عضلات زیربغل و پشتی"
+		},
+		{
+			"Id": 56,
+			"Title": "زیربغل سیم کش تک دست نشسته",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "پشتی بزرگ",
+			"TargetMuscleDescription": "عضلات زیربغل (لاتس)"
+		},
+		{
+			"Id": 57,
+			"Title": "زیربغل قایقی میله دوبل",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "پشتی بزرگ,ذوزنقه,دلتوئید خلفی",
+			"TargetMuscleDescription": "عضلات پشتی و زیربغل (لاتس)"
+		},
+		{
+			"Id": 58,
+			"Title": "زیربغل قایقی دست باز",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "پشتی بزرگ,ذوزنقه,دلتوئید خلفی",
+			"TargetMuscleDescription": "عضلات پشتی و زیربغل (لاتس)"
+		},
+		{
+			"Id": 59,
+			"Title": "زیربغل قایقی دست برعکس",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "پشتی بزرگ,ذوزنقه,دلتوئید خلفی",
+			"TargetMuscleDescription": "عضلات پشتی و زیربغل (لاتس)"
+		},
+		{
+			"Id": 60,
+			"Title": "زیربغل تی بار دستگاه نشسته",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "پشتی بزرگ,ذوزنقه,دلتوئید خلفی",
+			"TargetMuscleDescription": "عضلات پشتی و زیربغل (لاتس)"
+		},
+		{
+			"Id": 61,
+			"Title": "زیربغل تی بار دست برعکس دستگاه نشسته",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "پشتی بزرگ,ذوزنقه,دلتوئید خلفی",
+			"TargetMuscleDescription": "عضلات زیربغل (لاتس)"
+		},
+		{
+			"Id": 62,
+			"Title": "زیربغل اچ بار دستگاه نشسته",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "پشتی بزرگ,ذوزنقه,دلتوئید خلفی",
+			"TargetMuscleDescription": "عضلات زیربغل (لاتس)"
+		},
+		{
+			"Id": 63,
+			"Title": "زیربغل سیم کش دوبل دست باز از جلو",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "پشتی بزرگ",
+			"TargetMuscleDescription": "عضلات زیربغل (لاتس)"
+		},
+		{
+			"Id": 64,
+			"Title": "زیربغل قایقی میله دوبل دست باز",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "پشتی بزرگ,ذوزنقه,دلتوئید خلفی",
+			"TargetMuscleDescription": "عضلات زیربغل (لاتس) و پشتی"
+		},
+		{
+			"Id": 65,
+			"Title": "زیربغل دمبل جفت (میز شیب دار)",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "پشتی بزرگ,ذوزنقه,دلتوئید خلفی",
+			"TargetMuscleDescription": "عضلات زیربغل (لاتس) و پشتی"
+		},
+		{
+			"Id": 66,
+			"Title": "زیربغل تی بار ماشین",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "پشتی بزرگ,ذوزنقه,دلتوئید خلفی",
+			"TargetMuscleDescription": "عضلات زیربغل (لاتس)"
+		},
+		{
+			"Id": 67,
+			"Title": "زیربغل اچ بار ماشین",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "پشتی بزرگ,ذوزنقه,دلتوئید خلفی",
+			"TargetMuscleDescription": "عضلات زیربغل (لاتس)"
+		},
+		{
+			"Id": 68,
+			"Title": "زیربغل تی بار دست برعکس ماشین",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "پشتی بزرگ,ذوزنقه,دلتوئید خلفی",
+			"TargetMuscleDescription": "عضلات زیربغل (لاتس)"
+		},
+		{
+			"Id": 69,
+			"Title": "بارفیکس کمکی دست باز",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "پشتی بزرگ",
+			"TargetMuscleDescription": "عضلات پشت، زیربغل"
+		},
+		{
+			"Id": 70,
+			"Title": "بارفیکس کمکی  دست برعکس",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "پشتی بزرگ,دوسر بازو",
+			"TargetMuscleDescription": "عضلات پشت، زیربغل، جلو بازو"
+		},
+		{
+			"Id": 71,
+			"Title": "پرس سینه دستگاه نشسته",
+			"TargetMuscle": "سینه",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "سینه (بخش میانی)",
+			"TargetMuscleDescription": "عضلات سینه، سه سر بازو"
+		},
+		{
+			"Id": 72,
+			"Title": "پرس بالا سینه ماشین",
+			"TargetMuscle": "سینه",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "سینه (بخش بالایی)",
+			"TargetMuscleDescription": "بالای سینه، سه سر بازو"
+		},
+		{
+			"Id": 73,
+			"Title": "کراس اور سیم کش از بالا",
+			"TargetMuscle": "سینه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "سینه (بخش پایینی)",
+			"TargetMuscleDescription": "عضلات سینه"
+		},
+		{
+			"Id": 74,
+			"Title": "قفسه سینه سیم کش ایستاده",
+			"TargetMuscle": "سینه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "سینه (بخش میانی)",
+			"TargetMuscleDescription": "عضلات سینه"
+		},
+		{
+			"Id": 75,
+			"Title": "کراس اور سیم کش از پایین",
+			"TargetMuscle": "سینه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "سینه (بخش بالایی)",
+			"TargetMuscleDescription": "عضلات سینه"
+		},
+		{
+			"Id": 76,
+			"Title": "شنا سوئدی",
+			"TargetMuscle": "سینه",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "وزن بدن",
+			"PrimaryMuscles": "سینه,دلتوئید قدامی,سه سر بازو",
+			"TargetMuscleDescription": "عضلات سینه و پشت بازو"
+		},
+		{
+			"Id": 77,
+			"Title": "فلای سینه دستگاه",
+			"TargetMuscle": "سینه",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "سینه",
+			"TargetMuscleDescription": "عضلات سینه"
+		},
+		{
+			"Id": 78,
+			"Title": "پرس سینه هالتر",
+			"TargetMuscle": "سینه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "سینه (بخش میانی)",
+			"TargetMuscleDescription": "عضلات سینه، سه سر بازو"
+		},
+		{
+			"Id": 79,
+			"Title": "پرس سینه دمبل",
+			"TargetMuscle": "سینه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "سینه (بخش میانی)",
+			"TargetMuscleDescription": "عضلات سینه، سه سر بازو"
+		},
+		{
+			"Id": 80,
+			"Title": "پرس سینه دمبل چرخشی",
+			"TargetMuscle": "سینه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "سینه (بخش میانی)",
+			"TargetMuscleDescription": "عضلات سینه، سه سر بازو"
+		},
+		{
+			"Id": 81,
+			"Title": "قفسه سینه دمبل",
+			"TargetMuscle": "سینه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "سینه (بخش میانی)",
+			"TargetMuscleDescription": "عضلات سینه"
+		},
+		{
+			"Id": 82,
+			"Title": "پرس بالا سینه هالتر",
+			"TargetMuscle": "سینه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "سینه (بخش بالایی)",
+			"TargetMuscleDescription": "بالای سینه، سه سر بازو"
+		},
+		{
+			"Id": 83,
+			"Title": "پرس بالا سینه دمبل",
+			"TargetMuscle": "سینه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "سینه (بخش بالایی)",
+			"TargetMuscleDescription": "بالای سینه، سه سر بازو"
+		},
+		{
+			"Id": 84,
+			"Title": "پرس بالا سینه دمبل چرخشی",
+			"TargetMuscle": "سینه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "سینه (بخش بالایی)",
+			"TargetMuscleDescription": "بالای سینه، سه سر بازو"
+		},
+		{
+			"Id": 85,
+			"Title": "قفسه بالا سینه دمبل",
+			"TargetMuscle": "سینه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "سینه (بخش بالایی)",
+			"TargetMuscleDescription": "بالای سینه"
+		},
+		{
+			"Id": 86,
+			"Title": "بالا سینه دمبل جفت موازی",
+			"TargetMuscle": "سینه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "سینه (بخش بالایی)",
+			"TargetMuscleDescription": "بالای سینه، سه سر بازو"
+		},
+		{
+			"Id": 87,
+			"Title": "پرس سینه دمبل جفت موازی",
+			"TargetMuscle": "سینه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "سینه (بخش میانی)",
+			"TargetMuscleDescription": "عضلات سینه، سه سر بازو"
+		},
+		{
+			"Id": 88,
+			"Title": "بالا سینه دمبل صلیب",
+			"TargetMuscle": "سینه",
+			"DifficultyLevel": "پیشرفته",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "سینه (بخش بالایی)",
+			"TargetMuscleDescription": "بالای سینه"
+		},
+		{
+			"Id": 89,
+			"Title": "زیر سینه هالتر",
+			"TargetMuscle": "سینه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "سینه (بخش پایینی)",
+			"TargetMuscleDescription": "زیر سینه، قسمت پایین عضلات سینه"
+		},
+		{
+			"Id": 90,
+			"Title": "زیر سینه دمبل",
+			"TargetMuscle": "سینه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "سینه (بخش پایینی)",
+			"TargetMuscleDescription": "زیر سینه، قسمت پایین عضلات سینه"
+		},
+		{
+			"Id": 91,
+			"Title": "زیر سینه دمبل چرخشی",
+			"TargetMuscle": "سینه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "سینه (بخش پایینی)",
+			"TargetMuscleDescription": "زیر سینه (قسمت پایین عضلات سینه)"
+		},
+		{
+			"Id": 92,
+			"Title": "قفسه زیر سینه دمبل",
+			"TargetMuscle": "سینه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "سینه (بخش پایینی)",
+			"TargetMuscleDescription": "زیر سینه (قسمت پایین عضلات سینه)"
+		},
+		{
+			"Id": 93,
+			"Title": "جلو بازو هالتر ایستاده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "دوسر بازو",
+			"TargetMuscleDescription": "عضلات جلو بازو"
+		},
+		{
+			"Id": 94,
+			"Title": "جلو بازو هالتر دست باز ایستاده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "دوسر بازو (سر کوتاه)",
+			"TargetMuscleDescription": "عضلات جلو بازو (تمرکز بیشتر بر برخی از سرهای عضله)"
+		},
+		{
+			"Id": 95,
+			"Title": "جلو بازو هالتر دست جمع ایستاده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "دوسر بازو (سر بلند)",
+			"TargetMuscleDescription": "عضلات جلو بازو (با تأکید بر تمرکز داخلی حرکت)"
+		},
+		{
+			"Id": 96,
+			"Title": "جلو بازو هالتر میله EZ دست باز ایستاده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "دوسر بازو (سر کوتاه)",
+			"TargetMuscleDescription": "عضلات جلو بازو"
+		},
+		{
+			"Id": 97,
+			"Title": "جلو بازو هالتر میله EZ دست جمع ایستاده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "دوسر بازو (سر بلند)",
+			"TargetMuscleDescription": "عضلات جلو بازو"
+		},
+		{
+			"Id": 98,
+			"Title": "جلو بازو دمبل تک تک ایستاده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "دوسر بازو",
+			"TargetMuscleDescription": "عضلات جلو بازو"
+		},
+		{
+			"Id": 99,
+			"Title": "جلو بازو دمبل جفت ایستاده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "دوسر بازو",
+			"TargetMuscleDescription": "عضلات جلو بازو"
+		},
+		{
+			"Id": 100,
+			"Title": "جلو بازو دمبل چکشی تک تک ایستاده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "بازویی قدامی,زند اعلایی",
+			"TargetMuscleDescription": "عضلات جلو بازو (با تأکید بر سر بازو)"
+		},
+		{
+			"Id": 101,
+			"Title": "جلو بازو دمبل جفت ایستاده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "بازویی قدامی,زند اعلایی",
+			"TargetMuscleDescription": "عضلات جلو بازو"
+		},
+		{
+			"Id": 102,
+			"Title": "جلو بازو دمبل چشکی تک رو به داخل",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "بازویی قدامی,زند اعلایی",
+			"TargetMuscleDescription": "عضلات جلو بازو"
+		},
+		{
+			"Id": 103,
+			"Title": "جلو بازو دمبل چکشی تک تک نشسته",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "بازویی قدامی,زند اعلایی",
+			"TargetMuscleDescription": "عضلات جلو بازو (تمرکز بر سر بازو)"
+		},
+		{
+			"Id": 104,
+			"Title": "جلو بازو دمبل چکشی جفت نشسته",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "بازویی قدامی,زند اعلایی",
+			"TargetMuscleDescription": "عضلات جلو بازو"
+		},
+		{
+			"Id": 105,
+			"Title": "جلو بازو دمبل تک تک نشسته",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "دوسر بازو",
+			"TargetMuscleDescription": "عضلات جلو بازو"
+		},
+		{
+			"Id": 106,
+			"Title": "جلو بازو دمبل جفت نشسته",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "دوسر بازو",
+			"TargetMuscleDescription": "عضلات جلو بازو"
+		},
+		{
+			"Id": 107,
+			"Title": "جلو بازو دمبل تک کمر خم",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "دوسر بازو",
+			"TargetMuscleDescription": "عضلات جلو بازو (با مشارکت عضلات پشتی به عنوان پشتیبان)"
+		},
+		{
+			"Id": 108,
+			"Title": "جلو بازو دمبل میز شیب دار تک تک",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "دوسر بازو (سر بلند)",
+			"TargetMuscleDescription": "عضلات جلو بازو"
+		},
+		{
+			"Id": 109,
+			"Title": "جلو بازو سیم کش تک دست ایستاده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "دوسر بازو",
+			"TargetMuscleDescription": "عضلات جلو بازو"
+		},
+		{
+			"Id": 110,
+			"Title": "جلو بازو سیم کش تک تک ایستاده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "دوسر بازو",
+			"TargetMuscleDescription": "عضلات جلو بازو"
+		},
+		{
+			"Id": 111,
+			"Title": "جلو بازو سیم کش با میله ایستاده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "دوسر بازو",
+			"TargetMuscleDescription": "عضلات جلو بازو"
+		},
+		{
+			"Id": 112,
+			"Title": "جلو بازو طناب ایستاده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "دوسر بازو",
+			"TargetMuscleDescription": "عضلات جلو بازو"
+		},
+		{
+			"Id": 113,
+			"Title": "جلو بازو سیم کش فیگوری ایستاده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "دوسر بازو",
+			"TargetMuscleDescription": "عضلات جلو بازو"
+		},
+		{
+			"Id": 114,
+			"Title": "جلو بازو سیم کش نشسته",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "دوسر بازو",
+			"TargetMuscleDescription": "عضلات جلو بازو"
+		},
+		{
+			"Id": 115,
+			"Title": "جلو بازو لاری دستگاه",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "دوسر بازو",
+			"TargetMuscleDescription": "عضلات جلو بازو"
+		},
+		{
+			"Id": 116,
+			"Title": "جلو بازو هالتر لاری میله EZ دست باز",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "دوسر بازو (سر کوتاه)",
+			"TargetMuscleDescription": "عضلات جلو بازو"
+		},
+		{
+			"Id": 117,
+			"Title": "جلو بازو هالتر لاری میله EZ دست جمع",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "دوسر بازو (سر بلند)",
+			"TargetMuscleDescription": "عضلات جلو بازو"
+		},
+		{
+			"Id": 118,
+			"Title": "جلو بازو دمبل دمبل چکشی تک دست میز لاری",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "بازویی قدامی,زند اعلایی",
+			"TargetMuscleDescription": "عضلات جلو بازو (تمرکز بر سر بازو)"
+		},
+		{
+			"Id": 119,
+			"Title": "جلو بازو دمبل تک دست میز لاری",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "دوسر بازو",
+			"TargetMuscleDescription": "عضلات جلو بازو"
+		},
+		{
+			"Id": 120,
+			"Title": "جلو بازو دمبل چکشی جفت میز لاری",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "بازویی قدامی,زند اعلایی",
+			"TargetMuscleDescription": "عضلات جلو بازو"
+		},
+		{
+			"Id": 121,
+			"Title": "جلو بازو دمبل جفت میز لاری",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "دوسر بازو",
+			"TargetMuscleDescription": "عضلات جلو بازو"
+		},
+		{
+			"Id": 122,
+			"Title": "پشت بازو دمبل تک تک نشسته",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "سه سر بازو",
+			"TargetMuscleDescription": "عضلات پشت بازو (تریسپس)"
+		},
+		{
+			"Id": 123,
+			"Title": "پشت بازو دمبل پرسی نشسته",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "سه سر بازو",
+			"TargetMuscleDescription": "عضلات پشت بازو (تریسپس)"
+		},
+		{
+			"Id": 124,
+			"Title": "پشت بازو طناب ایستاده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "سه سر بازو",
+			"TargetMuscleDescription": "عضلات پشت بازو (تریسپس)"
+		},
+		{
+			"Id": 125,
+			"Title": "پشت بازو سیم کش تک دست برعکس ایستاده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "سه سر بازو (سر بلند)",
+			"TargetMuscleDescription": "عضلات پشت بازو (تریسپس)"
+		},
+		{
+			"Id": 126,
+			"Title": "پشت بازو سیم کش تک دست ایستاده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "سه سر بازو",
+			"TargetMuscleDescription": "عضلات پشت بازو (تریسپس)"
+		},
+		{
+			"Id": 127,
+			"Title": "پشت بازو سیم کش ایستاده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "سه سر بازو",
+			"TargetMuscleDescription": "عضلات پشت بازو (تریسپس)"
+		},
+		{
+			"Id": 128,
+			"Title": "پشت بازو سیم کش دست برعکس ایستاده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "سه سر بازو (سر بلند)",
+			"TargetMuscleDescription": "عضلات پشت بازو (تریسپس)"
+		},
+		{
+			"Id": 129,
+			"Title": "پشت بازو دیپ دستگاه دست معمولی",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "سه سر بازو",
+			"TargetMuscleDescription": "عضلات پشت بازو (تریسپس)"
+		},
+		{
+			"Id": 130,
+			"Title": "پشت بازو دیپ دستگاه دست برعکس",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "سه سر بازو",
+			"TargetMuscleDescription": "عضلات پشت بازو (تریسپس)"
+		},
+		{
+			"Id": 131,
+			"Title": "پشت بازو هالتر پرسی خوابیده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "سه سر بازو",
+			"TargetMuscleDescription": "عضلات پشت بازو (تریسپس)"
+		},
+		{
+			"Id": 132,
+			"Title": "پشت بازو هالتر خوابیده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "سه سر بازو",
+			"TargetMuscleDescription": "عضلات پشت بازو (تریسپس)"
+		},
+		{
+			"Id": 133,
+			"Title": "پشت بازو هالتر خوابیده دست برعکس",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "سه سر بازو (سر بلند)",
+			"TargetMuscleDescription": "عضلات پشت بازو (تریسپس)"
+		},
+		{
+			"Id": 134,
+			"Title": "پشت بازو هالتر میله EZ دست باز خوابیده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "سه سر بازو",
+			"TargetMuscleDescription": "عضلات پشت بازو (تریسپس)"
+		},
+		{
+			"Id": 135,
+			"Title": "پشت بازو هالتر میله EZ دست جمع خوابیده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "سه سر بازو (سر بلند)",
+			"TargetMuscleDescription": "عضلات پشت بازو (تریسپس)"
+		},
+		{
+			"Id": 136,
+			"Title": "پشت بازو دمبل تک دست خوابیده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "سه سر بازو",
+			"TargetMuscleDescription": "عضلات پشت بازو (تریسپس)"
+		},
+		{
+			"Id": 137,
+			"Title": "پشت بازو دمبل جفت خوابیده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "سه سر بازو",
+			"TargetMuscleDescription": "عضلات پشت بازو (تریسپس)"
+		},
+		{
+			"Id": 138,
+			"Title": "پشت بازو هالتر خوابیده میز زیر سینه",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "سه سر بازو",
+			"TargetMuscleDescription": "عضلات پشت بازو (تریسپس)"
+		},
+		{
+			"Id": 139,
+			"Title": "پشت بازو هالتر خوابیده دست برعکس میز زیر سینه",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "سه سر بازو (سر بلند)",
+			"TargetMuscleDescription": "عضلات پشت بازو (تریسپس)"
+		},
+		{
+			"Id": 140,
+			"Title": "پشت بازو هالتر خوابیده میله EZ دست جمع میز زیر سینه",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "سه سر بازو (سر بلند)",
+			"TargetMuscleDescription": "عضلات پشت بازو (تریسپس)"
+		},
+		{
+			"Id": 141,
+			"Title": "پشت بازو دمبل جفت کمر خم",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "سه سر بازو",
+			"TargetMuscleDescription": "عضلات پشت بازو (تریسپس) و عضلات پشتی به عنوان پشتیبان"
+		},
+		{
+			"Id": 142,
+			"Title": "پشت بازو دمبل پرسی ایستاده",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "سه سر بازو",
+			"TargetMuscleDescription": "عضلات پشت بازو (تریسپس)"
+		},
+		{
+			"Id": 145,
+			"Title": "پرس زیر سینه اسمیت دستگاه",
+			"TargetMuscle": "سینه",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دستگاه اسمیت",
+			"PrimaryMuscles": "سینه (بخش پایینی)"
+		},
+		{
+			"Id": 147,
+			"Title": "فلای بالا سینه دمبل",
+			"TargetMuscle": "سینه",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "سینه (بخش بالایی)"
+		},
+		{
+			"Id": 149,
+			"Title": "پرس سینه دست جمع هالتر",
+			"TargetMuscle": "سینه,بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "سینه (بخش میانی),سه سر بازو"
+		},
+		{
+			"Id": 150,
+			"Title": "دیپ سینه (بدون دستگاه)",
+			"TargetMuscle": "سینه,بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "وزن بدن",
+			"PrimaryMuscles": "سینه (بخش پایینی),سه سر بازو"
+		},
+		{
+			"Id": 151,
+			"Title": "بارفیکس دست باز",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "وزن بدن",
+			"PrimaryMuscles": "پشتی بزرگ"
+		},
+		{
+			"Id": 152,
+			"Title": "بارفیکس دست جمع",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "وزن بدن",
+			"PrimaryMuscles": "پشتی بزرگ,دوسر بازو"
+		},
+		{
+			"Id": 154,
+			"Title": "زیربغل دمبل خم تک دست",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "پشتی بزرگ,ذوزنقه,دلتوئید خلفی"
+		},
+		{
+			"Id": 155,
+			"Title": "زیربغل دمبل خم جفت",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "پشتی بزرگ,ذوزنقه,دلتوئید خلفی"
+		},
+		{
+			"Id": 163,
+			"Title": "اسکات بلغاری تک پا",
+			"TargetMuscle": "پا",
+			"DifficultyLevel": "پیشرفته",
+			"Equipment": "وزن بدن,دمبل,کتل بل,هالتر",
+			"PrimaryMuscles": "چهارسر ران,سرینی,همسترینگ"
+		},
+		{
+			"Id": 165,
+			"Title": "ساق پا نشسته دستگاه",
+			"TargetMuscle": "پا",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "نعلی"
+		},
+		{
+			"Id": 167,
+			"Title": "نشر جانب دمبل خم",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "دلتوئید خلفی"
+		},
+		{
+			"Id": 169,
+			"Title": "پرس سرشانه هالتر نشسته",
+			"TargetMuscle": "سرشانه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "دلتوئید قدامی,دلتوئید جانبی"
+		},
+		{
+			"Id": 172,
+			"Title": "شراک دمبل",
+			"TargetMuscle": "کول",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "ذوزنقه"
+		},
+		{
+			"Id": 174,
+			"Title": "کول سیم کش",
+			"TargetMuscle": "کول,سرشانه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "ذوزنقه,دلتوئید جانبی,دلتوئید قدامی"
+		},
+		{
+			"Id": 175,
+			"Title": "کرانچ ساده",
+			"TargetMuscle": "شکم",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "وزن بدن",
+			"PrimaryMuscles": "راست شکمی"
+		},
+		{
+			"Id": 176,
+			"Title": "کرانچ ماشین",
+			"TargetMuscle": "شکم",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دستگاه",
+			"PrimaryMuscles": "راست شکمی"
+		},
+		{
+			"Id": 178,
+			"Title": "دراز و نشست",
+			"TargetMuscle": "شکم",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "وزن بدن",
+			"PrimaryMuscles": "راست شکمی,مورب شکمی"
+		},
+		{
+			"Id": 179,
+			"Title": "پا آویزان",
+			"TargetMuscle": "شکم",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "وزن بدن",
+			"PrimaryMuscles": "راست شکمی,مورب شکمی"
+		},
+		{
+			"Id": 181,
+			"Title": "چرخش روسی با دمبل",
+			"TargetMuscle": "شکم",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "مورب شکمی"
+		},
+		{
+			"Id": 182,
+			"Title": "دراز و نشست شیب دار",
+			"TargetMuscle": "شکم",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "وزن بدن",
+			"PrimaryMuscles": "راست شکمی,مورب شکمی"
+		},
+		{
+			"Id": 185,
+			"Title": "پرس سینه دست جمع دمبل",
+			"TargetMuscle": "سینه,بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "سینه (بخش میانی),سه سر بازو"
+		},
+		{
+			"Id": 199,
+			"Title": "اسکات پا جلو هالتر",
+			"TargetMuscle": "پا",
+			"DifficultyLevel": "پیشرفته",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "چهارسر ران"
+		},
+		{
+			"Id": 202,
+			"Title": "ساق پا دمبل ایستاده",
+			"TargetMuscle": "پا",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "دوقلو,نعلی"
+		},
+		{
+			"Id": 224,
+			"Title": "پا به سینه نشسته",
+			"TargetMuscle": "شکم",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "وزن بدن",
+			"PrimaryMuscles": "راست شکمی,خم کننده های لگن"
+		},
+		{
+			"Id": 226,
+			"Title": "پل باسن با هالتر",
+			"TargetMuscle": "پا",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "سرینی,همسترینگ"
+		},
+		{
+			"Id": 230,
+			"Title": "لانگز جانبی با دمبل",
+			"TargetMuscle": "پا",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "چهارسر ران,سرینی,عضلات داخل و خارج ران"
+		},
+		{
+			"Id": 232,
+			"Title": "بورپی",
+			"TargetMuscle": "تمام بدن",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "وزن بدن",
+			"PrimaryMuscles": "تمام عضلات اصلی بدن"
+		},
+		{
+			"Id": 267,
+			"Title": "کرانچ پهلو با دمبل",
+			"TargetMuscle": "شکم",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "مورب شکمی"
+		},
+		{
+			"Id": 281,
+			"Title": "خم کردن مچ با هالتر",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "خم کننده های مچ دست"
+		},
+		{
+			"Id": 285,
+			"Title": "کشش همسترینگ ایستاده",
+			"TargetMuscle": "پا",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "وزن بدن",
+			"PrimaryMuscles": "همسترینگ"
+		},
+		{
+			"Id": 308,
+			"Title": "کشش پهلو ایستاده",
+			"TargetMuscle": "شکم",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "وزن بدن",
+			"PrimaryMuscles": "مورب شکمی"
+		},
+		{
+			"Id": 317,
+			"Title": "بارفیکس دست معکوس",
+			"TargetMuscle": "زیربغل,بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "وزن بدن",
+			"PrimaryMuscles": "پشتی بزرگ,دوسر بازو"
+		},
+		{
+			"Id": 358,
+			"Title": "کرانچ با توپ",
+			"TargetMuscle": "شکم",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "توپ تعادلی",
+			"PrimaryMuscles": "راست شکمی"
+		},
+		{
+			"Id": 384,
+			"Title": "پرش با طناب",
+			"TargetMuscle": "تمام بدن",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "سایر",
+			"PrimaryMuscles": "ساق پا,چهارسر ران,همسترینگ"
+		},
+		{
+			"Id": 403,
+			"Title": "جلو بازو دمبل متمرکز",
+			"TargetMuscle": "بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دمبل",
+			"PrimaryMuscles": "دوسر بازو"
+		},
+		{
+			"Id": 465,
+			"Title": "پول اور هالتر",
+			"TargetMuscle": "سینه,زیربغل",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "سینه (بخش بالایی),پشتی بزرگ"
+		},
+		{
+			"Id": 468,
+			"Title": "زیربغل تک دست سیم کش از بالا",
+			"TargetMuscle": "زیربغل",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "پشتی بزرگ"
+		},
+		{
+			"Id": 470,
+			"Title": "دیپ روی پارالل",
+			"TargetMuscle": "سینه,بازو",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "وزن بدن",
+			"PrimaryMuscles": "سینه (بخش پایینی),سه سر بازو"
+		},
+		{
+			"Id": 473,
+			"Title": "کرانچ سیم کش (نردبانی)",
+			"TargetMuscle": "شکم",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "سیم‌کش",
+			"PrimaryMuscles": "راست شکمی"
+		},
+		{
+			"Id": 476,
+			"Title": "ددلیفت سمیث",
+			"TargetMuscle": "پا,کول",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "دستگاه اسمیت",
+			"PrimaryMuscles": "همسترینگ,سرینی,فیله کمر,ذوزنقه"
+		},
+		{
+			"Id": 484,
+			"Title": "رول اوت شکم با چرخ",
+			"TargetMuscle": "شکم",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "سایر",
+			"PrimaryMuscles": "راست شکمی,عرضی شکمی"
+		},
+		{
+			"Id": 491,
+			"Title": "کول هالتر (آپ‌رایت رو) دست باز",
+			"TargetMuscle": "کول,سرشانه",
+			"DifficultyLevel": "متوسط",
+			"Equipment": "هالتر",
+			"PrimaryMuscles": "ذوزنقه,دلتوئید جانبی"
+		},
+		{
+			"Id": 502,
+			"Title": "کوهنورد",
+			"TargetMuscle": "شکم,پا,هوازی",
+			"DifficultyLevel": "مبتدی",
+			"Equipment": "وزن بدن",
+			"PrimaryMuscles": "راست شکمی,مورب شکمی,چهارسر ران,همسترینگ"
+		}
+	]
+}
